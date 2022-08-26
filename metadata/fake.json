@@ -1,7 +1,7 @@
 {
-    "name": "FAKE OG",
-    "symbol": "TSAINTS",
-    "description": "Gundam vigilantes from Tokyo",
+    "name": "HACKED",
+    "symbol": "HACKED",
+    "description": "HACKED",
     "seller_fee_basis_points": 800,
     "image": "https://raw.githubusercontent.com/WhiteElephantEco/metadata/c17d1f6f1bbfe5084da962cc6e98785294692bc9/assets/fake.png",
     "attributes": [
@@ -31,8 +31,8 @@
         }
     ],
     "collection": {
-        "name": " Fake Tokyo Saints",
-        "family": " Fake Tokyo Saints"
+        "name": " HACKED",
+        "family": "HACKED"
     },
     "properties": {
         "category": "image",

@@ -3,7 +3,7 @@
     "symbol": "HACKED",
     "description": "HACKED",
     "seller_fee_basis_points": 800,
-    "image": "https://github.com/WhiteElephantEco/metadata/blob/eda4b922da275d1653125a4a6447ebdc98c5acb6/assets/hacked.png",
+    "image": "https://raw.githubusercontent.com/WhiteElephantEco/metadata/master/assets/hacked.png",
     "attributes": [
         {
             "trait_type": "Background",

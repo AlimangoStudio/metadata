@@ -3,7 +3,7 @@
     "symbol": "TSAINTS",
     "description": "Gundam vigilantes from Tokyo",
     "seller_fee_basis_points": 800,
-    "image": "image.png",
+    "image": "https://github.com/WhiteElephantEco/metadata/blob/c17d1f6f1bbfe5084da962cc6e98785294692bc9/assets/fake.png",
     "attributes": [
         {
             "trait_type": "Background",

@@ -1,0 +1,41 @@
+{
+  "name": "Solswipe # 1",
+  "symbol": "SSWIPE",
+  "description": "Solswipe is the first ever solana debit card in the world. The Solswipe NFT holders will be able to enjoy discounted loading fees, reward sharing/rebates, and is required to qualify for the metal tier debit cards!",
+  "seller_fee_basis_points": 888,
+  "image": "https://github.com/WhiteElephantEco/metadata/blob/5714f1df2cb3a479fa4f6781afcadf34716ea7e1/assets/solswipe.png",
+  "animation_url": "https://github.com/WhiteElephantEco/metadata/blob/5714f1df2cb3a479fa4f6781afcadf34716ea7e1/assets/solswipe.mp4",
+  "external_url": "https://solswipe.io/",
+  "attributes": [],
+"collection": {
+        "name": "Solswipe",
+        "family": "Solswipe"
+    },
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "type": "video/mp4",
+        "uri": "https://github.com/WhiteElephantEco/metadata/blob/5714f1df2cb3a479fa4f6781afcadf34716ea7e1/assets/solswipe.mp4"
+      },
+      {
+        "type": "image/png",
+        "uri": "https://github.com/WhiteElephantEco/metadata/blob/5714f1df2cb3a479fa4f6781afcadf34716ea7e1/assets/solswipe.png"
+      }
+    ],
+"creators": [
+      {
+        "address": "74KJVWKJuoNhYoHTV9ABAjYQMWFjaEyhE8TA1C6SZ3mH",
+        "share": 37
+      },
+      {
+        "address": "8AvQ3rP4UZSg3vHP1EziQWcL4zD11LqG9AVrBU4K4rsz",
+        "share": 22
+      },
+      {
+        "address": "2QtsFmt8KB6GCaZkAqoU1QttVdmoKTevTQ3wUrVM14uF",
+        "share": 41
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Fake OG",
+    "symbol": "TSAINTS",
+    "description": "Gundam vigilantes from Tokyo",
+    "seller_fee_basis_points": 800,
+    "image": "image.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Katana",
+            "value": "Chokuto"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leather"
+        },
+        {
+            "trait_type": "Visor",
+            "value": "Shibuya Red"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "BY-56 Blue White"
+        },
+        {
+            "trait_type": "Vigilante Group",
+            "value": "Shibuya"
+        }
+    ],
+    "collection": {
+        "name": "Tokyo Saints",
+        "family": "Tokyo Saints"
+    },
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "https://github.com/WhiteElephantEco/metadata/blob/master/assets/fake.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "6j4is3iaP9JkdmoGC48Q3P5wyfZgG71zjoREjUT35HHJ",
+                "share": 100
+            }
+        ]
+    }
+}
